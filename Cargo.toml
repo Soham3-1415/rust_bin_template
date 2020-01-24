@@ -1,0 +1,8 @@
+[package]
+name = "rust_bin_template"
+description = "rust_bin_template description"
+version = "0.1.0"
+authors = ["Soham Roy"]
+edition = "2018"
+
+[dependencies]
